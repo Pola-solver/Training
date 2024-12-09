@@ -1,0 +1,51 @@
+The Shawshank Redemption,Frank Darabont,1994,9.3,English,USA,Tim Robbins,Morgan Freeman,Drama,25000000
+The Godfather,Francis Ford Coppola,1972,9.2,English,USA,Marlon Brando,Al Pacino,Crime,6000000
+The Dark Knight,Christopher Nolan,2008,9.0,English,USA,Christian Bale,Heath Ledger,Action,185000000
+Pulp Fiction,Quentin Tarantino,1994,8.9,English,USA,John Travolta,Samuel L. Jackson,Crime,8000000
+The Lord of the Rings: The Return of the King,Peter Jackson,2003,8.9,English,New Zealand,Elijah Wood,Viggo Mortensen,Fantasy,94000000
+Schindler's List,Steven Spielberg,1993,8.9,English,USA,Liam Neeson,Ralph Fiennes,Drama,22000000
+Forrest Gump,Robert Zemeckis,1994,8.8,English,USA,Tom Hanks,Robin Wright,Comedy-Drama,55000000
+Inception,Christopher Nolan,2010,8.8,English,USA,Leonardo DiCaprio,Joseph Gordon-Levitt,Sci-Fi,160000000
+Fight Club,David Fincher,1999,8.8,English,USA,Brad Pitt,Edward Norton,Drama,63000000
+The Matrix,Lana Wachowski and Lilly Wachowski,1999,8.7,English,USA,Keanu Reeves,Laurence Fishburne,Sci-Fi,63000000
+Interstellar,Christopher Nolan,2014,8.6,English,USA,Matthew McConaughey,Anne Hathaway,Sci-Fi,165000000
+Se7en,David Fincher,1995,8.6,English,USA,Brad Pitt,Morgan Freeman,Crime,33000000
+The Silence of the Lambs,Jonathan Demme,1991,8.6,English,USA,Jodie Foster,Anthony Hopkins,Thriller,19000000
+City of God,Fernando Meirelles,2002,8.6,Portuguese,Brazil,Alexandre Rodrigues,Leandro Firmino,Crime,3300000
+The Green Mile,Frank Darabont,1999,8.6,English,USA,Tom Hanks,Michael Clarke Duncan,Drama,60000000
+Saving Private Ryan,Steven Spielberg,1998,8.6,English,USA,Tom Hanks,Matt Damon,War,70000000
+Spirited Away,Hayao Miyazaki,2001,8.6,Japanese,Japan,Rumi Hiiragi,Miyu Irino,Fantasy,15000000
+The Lion King,Roger Allers and Rob Minkoff,1994,8.5,English,USA,Matthew Broderick,Jeremy Irons,Animation,45000000
+The Usual Suspects,Bryan Singer,1995,8.5,English,USA,Kevin Spacey,Gabriel Byrne,Crime,6000000
+Parasite,Bong Joon Ho,2019,8.5,Korean,South Korea,Song Kang-ho,Lee Sun-kyun,Thriller,11400000
+Life Is Beautiful,Roberto Benigni,1997,8.6,Italian,Italy,Roberto Benigni,Nicoletta Braschi,Drama,20000000
+The Pianist,Roman Polanski,2002,8.5,English,Poland,Adrien Brody,Thomas Kretschmann,Drama,35000000
+The Departed,Martin Scorsese,2006,8.5,English,USA,Leonardo DiCaprio,Matt Damon,Crime,90000000
+Gladiator,Ridley Scott,2000,8.5,English,USA,Russell Crowe,Joaquin Phoenix,Action,103000000
+Whiplash,Damien Chazelle,2014,8.5,English,USA,Miles Teller,J.K. Simmons,Drama,3300000
+The Prestige,Christopher Nolan,2006,8.5,English,USA,Christian Bale,Hugh Jackman,Drama,40000000
+The Dark Knight Rises,Christopher Nolan,2012,8.4,English,USA,Christian Bale,Tom Hardy,Action,230000000
+Coco,Lee Unkrich and Adrian Molina,2017,8.4,Spanish,Mexico,Anthony Gonzalez,Gael García Bernal,Animation,175000000
+Joker,Todd Phillips,2019,8.4,English,USA,Joaquin Phoenix,Robert De Niro,Drama,70000000
+Django Unchained,Quentin Tarantino,2012,8.4,English,USA,Jamie Foxx,Christoph Waltz,Western,100000000
+The Shining,Stanley Kubrick,1980,8.4,English,USA,Jack Nicholson,Shelley Duvall,Horror,19000000
+WALL·E,Andrew Stanton,2008,8.4,English,USA,Ben Burtt,Elissa Knight,Animation,180000000
+The Social Network,David Fincher,2010,8.4,English,USA,Jesse Eisenberg,Andrew Garfield,Biography,40000000
+Mad Max: Fury Road,George Miller,2015,8.1,English,Australia,Tom Hardy,Charlize Theron,Action,150000000
+Blade Runner 2049,Dennis Villeneuve,2017,8.0,English,USA,Ryan Gosling,Harrison Ford,Sci-Fi,150000000
+Zootopia,Byron Howard and Rich Moore,2016,8.0,English,USA,Ginnifer Goodwin,Jason Bateman,Animation,150000000
+Inside Out,Pete Docter,2015,8.1,English,USA,Amy Poehler,Phyllis Smith,Animation,175000000
+Up,Pete Docter,2009,8.3,English,USA,Edward Asner,Jordan Nagai,Animation,175000000
+Frozen,Chris Buck and Jennifer Lee,2013,7.4,English,USA,Kristen Bell,Idina Menzel,Animation,150000000
+Inglourious Basterds,Quentin Tarantino,2009,8.3,English,USA,Brad Pitt,Christoph Waltz,War,70000000
+The Wolf of Wall Street,Martin Scorsese,2013,8.2,English,USA,Leonardo DiCaprio,Jonah Hill,Comedy,100000000
+La La Land,Damien Chazelle,2016,8.0,English,USA,Ryan Gosling,Emma Stone,Musical,30000000
+Toy Story 3,Lee Unkrich,2010,8.3,English,USA,Tom Hanks,Tim Allen,Animation,200000000
+Black Panther,Ryan Coogler,2018,7.3,English,USA,Chadwick Boseman,Michael B. Jordan,Action,200000000
+The Incredibles,Brad Bird,2004,8.0,English,USA,Craig T. Nelson,Holly Hunter,Animation,92000000
+Avatar,James Cameron,2009,7.8,English,USA,Sam Worthington,Zoe Saldana,Sci-Fi,237000000
+Titanic,James Cameron,1997,7.8,English,USA,Leonardo DiCaprio,Kate Winslet,Romance,200000000
+The Message,Mustafa Akkad,1976,8.2,Arabic,Syria,Ezzat El Alaili,Anthony Quinn,History,17000000
+Omar,Cheikh Omar,2012,9.0,Arabic,Syria,Samer Ismail,Ghassan Massoud,Drama,2000000
+The Blue Elephant,Marwan Hamed,2014,8.1,Arabic,Egypt,Kareem Abdel Aziz,Nelly Karim,Mystery,5000000
+Capernaum,Nadine Labaki,2018,8.4,Arabic,Lebanon,Zain Al Rafeea,Nadine Labaki,Drama,4000000
